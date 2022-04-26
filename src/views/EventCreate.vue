@@ -173,7 +173,6 @@ export default {
       const user = this.$store.state.user.user;
       //gives a random id using math floor and math random
       const id = Math.floor(Math.random() * 10000000);
-      // const id = this.$store.state.user.id++;
       //then returns this object
       return {
         //id set to the id const we created above
