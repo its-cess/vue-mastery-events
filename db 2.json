@@ -1,0 +1,184 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Beach Cleanup",
+      "date": "Aug 28 2018",
+      "time": "10:00",
+      "location": "Daytona Beach",
+      "description": "Let's clean up this beach.",
+      "organizer": "Adam Jahr",
+      "category": "sustainability",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "def456",
+          "name": "Gregg Pollack"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Park Cleanup",
+      "date": "Nov 12 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "We're going to clean up this park.",
+      "organizer": "Adam Jahr",
+      "category": "nature",
+      "attendees": [
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Pet Adoption Day",
+      "date": "Dec 2 2018",
+      "time": "12:00",
+      "location": "132 N Magnolia Street, Orlando, Florida",
+      "description": "Help animals find new homes.",
+      "organizer": "Gregg Pollack",
+      "category": "animal welfare",
+      "attendees": [
+        {
+          "id": "abc123",
+          "name": "Adam Jahr"
+        },
+        {
+          "id": "ghi789",
+          "name": "Beth Swanson"
+        },
+        {
+          "id": "jkl101",
+          "name": "Mary Gordon"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "user": {
+        "id": "abc123",
+        "name": "Cecily Toro"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Cecily Toro"
+      },
+      "title": "Test Event",
+      "description": "I love animals!",
+      "location": "ASPCA",
+      "date": "2022-04-15T16:54:00.000Z",
+      "time": "17:00",
+      "attendees": []
+    },
+    {
+      "id": 5,
+      "user": {
+        "id": "abc123",
+        "name": "Cecily Toro"
+      },
+      "category": "nature",
+      "organizer": {
+        "id": "abc123",
+        "name": "Cecily Toro"
+      },
+      "title": "Planting Trees",
+      "description": "We are going to plant trees",
+      "location": "The park",
+      "date": "2022-04-21T17:27:00.000Z",
+      "time": "11:00",
+      "attendees": []
+    },
+    {
+      "id": 10,
+      "user": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "title": "Puppy Picnic",
+      "description": "",
+      "location": "",
+      "date": "",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 12,
+      "user": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "category": "community",
+      "organizer": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "title": "Monique's Wedding",
+      "description": "Wedding",
+      "location": "California",
+      "date": "2022-09-05T17:50:00.000Z",
+      "time": "13:00",
+      "attendees": []
+    },
+    {
+      "id": 13,
+      "user": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "category": "animal welfare",
+      "organizer": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "title": "Puppy Party",
+      "description": "A party full of puppies",
+      "location": "The Park",
+      "date": "2022-04-06T18:31:00.000Z",
+      "time": "",
+      "attendees": []
+    },
+    {
+      "id": 16,
+      "user": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "category": "housing",
+      "organizer": {
+        "id": "abc123",
+        "name": "Cecily"
+      },
+      "title": "Habitat for Humanity",
+      "description": "Building houses",
+      "location": "Africa",
+      "date": "2022-05-19T14:14:00.000Z",
+      "time": "21:00",
+      "attendees": []
+    }
+  ]
+}
